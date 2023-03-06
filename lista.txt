@@ -1,0 +1,1 @@
+primer cliente:nombre:andrea apellido:baena edad:27 lista:leche,huevos,pan dinero:20
